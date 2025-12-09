@@ -9,3 +9,7 @@ Fibonacci Solitaire is a card game implemented using a standard deck of 52 cards
 
 ## Tech used
 * **language**: C++
+
+## How to play
+* Run the main script: `python fibonacci_solitaire.py`
+* Follow the screen instruction
